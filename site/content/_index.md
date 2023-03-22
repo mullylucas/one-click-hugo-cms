@@ -1,6 +1,6 @@
 ---
-title: "Dependable,Trustworthy Connections"
-subtitle: Know Credible Recruitment Agents 
+title: "Dependable Connections"
+subtitle: "Know Credible Recruitment Agents"
 image: /img/home-jumbotron.jpg
 blurb:
     heading: "Why MARY`S-DESK?"
