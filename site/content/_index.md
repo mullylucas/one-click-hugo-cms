@@ -1,20 +1,20 @@
 ---
 title: "Dependable,Trustworthy Connections"
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Know Credible Recruitment Agents 
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why MARY`S-DESK?
+    text: "Our recruitment agents are carefully selected and thoroughly vetted to ensure that they offer only legitimate job opportunities. We work with reputable agencies that have a proven track record of placing candidates in quality jobs. We also take feedback from our users seriously and constantly review our recruitment partners to ensure that they meet our standards."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Mission"
+    text: "Our mission is to help job seekers find quality jobs in the Middle East, while also providing a reliable platform for recruitment agents to connect with qualified candidates. We are committed to helping you succeed in your career and look forward to helping you find your next job"
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Our business is not profit-oriented, and we rely solely on the generosity of our clients to keep our operations running. If we have helped you avoid a job scam and land your dream job, we kindly ask that you consider leaving us a tip. Your support helps us continue to help others and make a positive impact in the job market."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Our Part
+    text: Are you tired of falling victim to job scams that promise you lucrative job opportunities but end up swindling you of your hard-earned money? Look no further. Our business is dedicated to helping you avoid job scams and find genuine job opportunities that can help you achieve your career goals.
 ---
 
