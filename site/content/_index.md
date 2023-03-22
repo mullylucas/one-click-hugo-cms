@@ -1,5 +1,5 @@
 ---
-title: "Dependable And Trustworthy Connections"
+title: "Dependable,Trustworthy Connections"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
